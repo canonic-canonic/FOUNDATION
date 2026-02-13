@@ -49,12 +49,4 @@ MUST NOT: Introduce ungoverned vocabulary into active governance files
 
 ---
 
-## Roadmap
-
-- Now: Spec closed, 66 terms, drift detection, self-compliance check
-- Next: Constraint conflict resolution, arXiv publication
-- Later: DAO governance, multi-stakeholder voting, versioning
-
----
-
 *LANGUAGE | canonic-foundation | CANON*

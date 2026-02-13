@@ -14,6 +14,12 @@ inherits: canonic-canonic/FOUNDATION
 | 2026-02-03 | canonic-foundation separated as governance root |
 | 2026-02-10 | GALAXY separation. .md only in Canonic/. |
 
+## LANGUAGE
+
+- Now: Spec closed, 66 terms, drift detection, self-compliance check
+- Next: Constraint conflict resolution, arXiv publication
+- Later: Multi-stakeholder voting, versioning
+
 ---
 
 *CANONIC-FOUNDATION | ROADMAP | 2026-02-10*
