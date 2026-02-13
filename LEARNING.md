@@ -1,6 +1,6 @@
 # CANONIC-FOUNDATION — LEARNING
 
-inherits: canonic-foundation
+inherits: canonic-canonic/FOUNDATION
 
 ---
 

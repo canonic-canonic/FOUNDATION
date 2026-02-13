@@ -1,6 +1,6 @@
 # CANONIC-FOUNDATION — VOCABULARY
 
-inherits: canonic-foundation
+inherits: canonic-canonic/FOUNDATION
 
 ---
 

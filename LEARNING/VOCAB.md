@@ -1,6 +1,6 @@
 # LEARNING — VOCAB
 
-inherits: canonic-foundation/LEARNING
+inherits: canonic-canonic/FOUNDATION/LEARNING
 
 ---
 

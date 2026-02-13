@@ -1,6 +1,6 @@
 # CANONIC-FOUNDATION — CANON
 
-inherits: canonic-foundation
+inherits: canonic-canonic/FOUNDATION
 
 ---
 

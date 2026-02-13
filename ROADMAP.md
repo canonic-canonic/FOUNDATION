@@ -1,6 +1,6 @@
 # CANONIC-FOUNDATION — ROADMAP
 
-inherits: canonic-foundation
+inherits: canonic-canonic/FOUNDATION
 
 ---
 

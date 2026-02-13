@@ -1,6 +1,6 @@
 # CANONIC-FOUNDATION
 
-inherits: canonic-foundation
+inherits: canonic-canonic/FOUNDATION
 
 SPEC = {SCOPE}. The LANGUAGE. FOUNDATION defines the governance language with three axioms: TRIAD, INHERITANCE, and INTROSPECTION.
 
